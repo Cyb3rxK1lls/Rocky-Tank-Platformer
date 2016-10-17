@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{E9381B1A-BB2A-7027-D5C4-11975E7B5897}") = "Jamtech 14 3D Package", "Assembly-CSharp.csproj", "{999E605F-6309-1ADC-3804-74A412BCC816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{999E605F-6309-1ADC-3804-74A412BCC816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{999E605F-6309-1ADC-3804-74A412BCC816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{999E605F-6309-1ADC-3804-74A412BCC816}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{999E605F-6309-1ADC-3804-74A412BCC816}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
